@@ -1,0 +1,13 @@
+#First Time
+git init
+git add .
+git commit -m "Leave A Relevant Message"
+git branch -M main
+git remote add origin https://github.com/DonovanEsver/IPHONE.git
+git push -u origin main
+
+
+#After First
+git add .
+git commit -m "Leave A Relevant Message"
+git push -u origin main
